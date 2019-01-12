@@ -1,0 +1,24 @@
+{
+  "name": "vizworx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "populationBarGraph.js",
+  "dependencies": {
+    "d3": "^5.7.0",
+    "node": "^11.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connka/vizworx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/connka/vizworx/issues"
+  },
+  "homepage": "https://github.com/connka/vizworx#readme"
+}
