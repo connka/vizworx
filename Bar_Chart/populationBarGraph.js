@@ -1,6 +1,5 @@
-
 /*******************************************************************************
-Bar Graph created using tutorial by https://github.com/kthotav
+BarGraph generated from tutorial from: https://github.com/kthotav/D3Visualizations
 *******************************************************************************/
 
 // See D3 margin convention: http://bl.ocks.org/mbostock/3019563
@@ -9,11 +8,7 @@ var margin = {top: 20, right: 10, bottom: 100, left:50},
     height = 500 - margin.top - margin.bottom;
 
 /*------------------------------------------------------------------------------
-define SVG
-Still confused about SVG? see Chapter 3.
-The "g" element is used as a container for grouping objects. The SVG will be
-in "lightgrey" backgorund to help you visualize it.
-See https://developer.mozilla.org/en-US/docs/Web/SVG/Element/g for more info
+SVG
 ------------------------------------------------------------------------------*/
 var svg = d3.select("body")
     .append("svg")
@@ -26,9 +21,7 @@ var svg = d3.select("body")
 
 
 /* -----------------------------------------------------------------------------
-SCALE and AXIS are two different methods of D3. See D3 API Refrence for info on
-AXIS and SCALES. See D3 API Refrence to understand the difference between
-Ordinal vs Linear scale.
+SCALE and AXIS
 ------------------------------------------------------------------------------*/
 // define x and y scales
 var xScale = d3.scale.ordinal()
@@ -47,23 +40,18 @@ var yAxis = d3.svg.axis()
     .orient("left");
 
 /* -----------------------------------------------------------------------------
-To understand how to import data. See D3 API refrence on CSV. Understand
-the difference between .csv, .tsv and .json files. To import a .tsv or
-.json file use d3.tsv() or d3.json(), respectively.
+Data import
 ------------------------------------------------------------------------------*/
-d3.csv("pop-chart.csv", function(error,data) {
+d3.csv("population.csv", function(error,data) {
   if(error) console.log("Error: data not loaded!");
 
   /*----------------------------------------------------------------------------
-  Convert data if necessary. We want to make sure our population vaulues are
-  represented as integers rather than strings. Use "+" before the variable to
-  convert a string represenation of a number to an actual number. Sometimes
-  the data will be in number format, but when in doubt use "+" to avoid issues.
+  Convert data
   ----------------------------------------------------------------------------*/
   data.forEach(function(d) {
-    d.name = +d.name;
-    d.population = +d.population;       // try removing the + and see what the console prints
-    console.log(d.population);   // use console.log to confirm
+    d.community = d.community;
+    d.population = +d.population;
+    console.log(d.population);
   });
 
   // sort the population values
@@ -72,7 +60,7 @@ d3.csv("pop-chart.csv", function(error,data) {
   });
 
   // Specify the domains of the x and y scales
-  xScale.domain(data.map(function(d) { return d.name; }) );
+  xScale.domain(data.map(function(d) { return d.community; }) );
   yScale.domain([0, d3.max(data, function(d) { return d.population; } ) ]);
 
   svg.selectAll('rect')
@@ -83,14 +71,14 @@ d3.csv("pop-chart.csv", function(error,data) {
     .attr("y", height)
     .transition().duration(3000)
     .delay( function(d,i) { return i * 200; })
-    // attributes can be also combined under one .attr
     .attr({
-      "x": function(d) { return xScale(d.name); },
+      "x": function(d) { return xScale(d.community); },
       "y": function(d) { return yScale(d.population); },
       "width": xScale.rangeBand(),
       "height": function(d) { return  height - yScale(d.population); }
     })
-    .style("fill", function(d,i) { return 'rgb(20, 20, ' + ((i * 30) + 100) + ')'});
+    .style("fill", function(d,i) { return 'rgb(240, 167, ' + ((i * 30) + 100) + ')'});
+    //240, 167, 18
 
 
         svg.selectAll('text')
@@ -104,7 +92,7 @@ d3.csv("pop-chart.csv", function(error,data) {
                 return d.population;
             })
             .attr({
-                "x": function(d){ return xScale(d.name) +  xScale.rangeBand()/2; },
+                "x": function(d){ return xScale(d.community) +  xScale.rangeBand()/2; },
                 "y": function(d){ return yScale(d.population)+ 12; },
                 "font-family": 'sans-serif',
                 "font-size": '13px',
@@ -135,5 +123,5 @@ d3.csv("pop-chart.csv", function(error,data) {
         .attr("x", -height/2)
         .attr("dy", "-3em")
         .style("text-anchor", "middle")
-        .text("Trillions of US Dollars ($)");
+        .text("POPULATION");
 });
