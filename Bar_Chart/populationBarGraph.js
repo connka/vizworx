@@ -3,8 +3,8 @@ BarGraph generated from tutorial from: https://github.com/kthotav/D3Visualizatio
 *******************************************************************************/
 
 // See D3 margin convention: http://bl.ocks.org/mbostock/3019563
-var margin = {top: 20, right: 10, bottom: 100, left:50},
-    width = 700 - margin.right - margin.left,
+var margin = {top: 50, right: 50, bottom: 200, left:150},
+    width = 800 - margin.right - margin.left,
     height = 500 - margin.top - margin.bottom;
 
 /*------------------------------------------------------------------------------
@@ -121,7 +121,7 @@ d3.csv("population.csv", function(error,data) {
         .append("text")
         .attr("transform", "rotate(-90)")
         .attr("x", -height/2)
-        .attr("dy", "-3em")
+        .attr("dy", "-4em")
         .style("text-anchor", "middle")
         .text("POPULATION");
 });

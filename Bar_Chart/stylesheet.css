@@ -3,6 +3,7 @@ svg {
     margin-right: auto;
     display: block;
     border-radius: 5px;
+    font-family: 'Thasadith', sans-serif;
 }
 
 .axis path,
@@ -13,7 +14,10 @@ svg {
 }
 
 .axis text{
-    font: Times;
     font-size: 12px;
     font-weight: bold;
+}
+
+h1 {
+    font-family: 'Thasadith', sans-serif;
 }
