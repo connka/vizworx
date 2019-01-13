@@ -1,0 +1,1200 @@
+[
+  {
+    "NAME": "MANCHESTER INDUSTRIAL",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "EAST FAIRVIEW INDUSTRIAL",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "CANADA OLYMPIC PARK",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "FOOTHILLS",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "SHEPARD INDUSTRIAL",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "FISH CREEK PARK",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "12B",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "STONEY 4",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "STONEY 1",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "NORTH AIRWAYS",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "STONEGATE LANDING",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "STONEY 2",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "STARFIELD",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "GREENVIEW INDUSTRIAL PARK",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "GLENMORE PARK",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "HAMPTONS",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "ROYAL VISTA",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "MERIDIAN",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "MAYLAND",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "13H",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "NOSE HILL PARK",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "02C",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "10C",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "01C",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "01G",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "01H",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "10B",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "02B",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "02L",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "10A",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "12J",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "13I",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "03H",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "14V",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "02A",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "03V",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "13G",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "13B",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "01B",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "12H",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "09K",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "SADDLE RIDGE INDUSTRIAL",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "HIGHFIELD",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "FAIRVIEW INDUSTRIAL",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "OGDEN SHOPS",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "EAST SHEPARD INDUSTRIAL",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "WESTWINDS",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "MCCALL",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "PEGASUS",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "SUNRIDGE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "FRANKLIN",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "CITYSCAPE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "CALGARY INTERNATIONAL AIRPORT",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "GOLDEN TRIANGLE",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "SKYLINE WEST",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "HORIZON",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "02F",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "SKYLINE EAST",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "BURNS INDUSTRIAL",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "GLENDEER BUSINESS PARK",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "DEERFOOT BUSINESS CENTRE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "AURORA BUSINESS PARK",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "SOUTH AIRWAYS",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "STONEY 3",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "SECTION 23",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "SOUTH FOOTHILLS",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "MAPLE RIDGE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "13F",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "FOREST LAWN INDUSTRIAL",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "ALYTH/BONNYBROOK",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "EASTFIELD",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "VALLEYFIELD",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "GREAT PLAINS",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "SIGNAL HILL",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "MIDNAPORE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "COUNTRY HILLS VILLAGE",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "FAIRVIEW",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "BEL-AIRE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "PATTERSON",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "SOUTH CALGARY",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "01F",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "RIDEAU PARK",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "CRESTMONT",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "CAMBRIAN HEIGHTS",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "BRITANNIA",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "WEST HILLHURST",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "ROSSCARROCK",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "KILLARNEY/GLENGARRY",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "CANYON MEADOWS",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "AUBURN BAY",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "CHAPARRAL",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "02K",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "BRENTWOOD",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "SCARBORO",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "13C",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "03S",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "13E",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "06A",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "01I",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "13A",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "13D",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "12I",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "MEDICINE HILL",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "05B",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "HIGHLAND PARK",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "BELTLINE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "HUNTINGTON HILLS",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "GREENVIEW",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "DOWNTOWN COMMERCIAL CORE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "12A",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "14U",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "01D",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "09D",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "02E",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "09N",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "12F",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "12C",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "05C",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "09H",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "MOUNT PLEASANT",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "SCARBORO/ SUNALTA WEST",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "TUSCANY",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "CHARLESWOOD",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "CEDARBRAE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "GREENWOOD/GREENBRIAR",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "PUMP HILL",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "COUGAR RIDGE",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "SILVER SPRINGS",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "HILLHURST",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "GLENDALE",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "BRIDLEWOOD",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "WOODBINE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "MCKENZIE TOWNE",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "HIDDEN VALLEY",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "DOWNTOWN WEST END",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "TARADALE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "RUNDLE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "UNIVERSITY HEIGHTS",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "SUNNYSIDE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "CAPITOL HILL",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "BANKVIEW",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "MONTGOMERY",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "CLIFF BUNGALOW",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "RIVERBEND",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "HARVEST HILLS",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "CHINATOWN",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "TEMPLE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "BRAESIDE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "OGDEN",
+    "SECTOR": "SOUTHEAST"
+  },
+
+
+
+
+
+  
+  {
+    "NAME": "CITADEL",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "KELVIN GROVE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "PENBROOKE MEADOWS",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "WALDEN",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "RAMSAY",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "MARLBOROUGH",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "POINT MCKAY",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "RUTLAND PARK",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "WEST SPRINGS",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "MANCHESTER",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "GARRISON GREEN",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "MACEWAN GLEN",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "DEER RIDGE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "MONTEREY PARK",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "DISCOVERY RIDGE",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "LOWER MOUNT ROYAL",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "SOUTHVIEW",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "CURRIE BARRACKS",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "DEER RUN",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "BAYVIEW",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "WILDWOOD",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "MILLRISE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "CHRISTIE PARK",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "RENFREW",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "NORTH HAVEN UPPER",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "INGLEWOOD",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "EAGLE RIDGE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "LINCOLN PARK",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "STRATHCONA PARK",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "SOUTHWOOD",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "DOWNTOWN EAST VILLAGE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "EAU CLAIRE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "MCKENZIE LAKE",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "MAYFAIR",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "ROSEDALE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "MISSION",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "GLENBROOK",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "TUXEDO PARK",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "RED CARPET",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "ST. ANDREWS HEIGHTS",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "ELBOW PARK",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "COPPERFIELD",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "SHAGANAPPI",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "PANORAMA HILLS",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "DIAMOND COVE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "HAYSBORO",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "DOVER",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "THORNCLIFFE",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "ROCKY RIDGE",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "FOREST HEIGHTS",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "CRESCENT HEIGHTS",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "SANDSTONE VALLEY",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "LAKE BONAVISTA",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "DOUGLASDALE/GLEN",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "SOMERSET",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "RANCHLANDS",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "HOUNSFIELD HEIGHTS/BRIAR HILL",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "SUNDANCE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "WESTGATE",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "SAGE HILL",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "UNIVERSITY OF CALGARY",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "MARTINDALE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "UPPER MOUNT ROYAL",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "COUNTRY HILLS",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "EDGEMONT",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "KINCORA",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "APPLEWOOD PARK",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "ERLTON",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "NOLAN HILL",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "COACH HILL",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "COLLINGWOOD",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "ACADIA",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "HAWKWOOD",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "BONAVISTA DOWNS",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "QUEENSLAND",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "VARSITY",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "WOODLANDS",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "OAKRIDGE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "GLAMORGAN",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "DALHOUSIE",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "ELBOYA",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "WINDSOR PARK",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "BOWNESS",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "WHITEHORN",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "PALLISER",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "SHAWNEE SLOPES",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "MARLBOROUGH PARK",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "MAHOGANY",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "SPRUCE CLIFF",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "QUEENS PARK VILLAGE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "PARKLAND",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "CASTLERIDGE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "KINGSLAND",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "ALBERT PARK/RADISSON HEIGHTS",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "NORTH GLENMORE PARK",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "ERIN WOODS",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "ALTADORE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "PINERIDGE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "FOREST LAWN",
+    "SECTOR": "EAST"
+  },
+  {
+    "NAME": "WILLOW PARK",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "NEW BRIGHTON",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "PARKDALE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "ROSEMONT",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "MAYLAND HEIGHTS",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "SUNALTA",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "BRIDGELAND/RIVERSIDE",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "LAKEVIEW",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "VISTA HEIGHTS",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "NORTH HAVEN",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "BEDDINGTON HEIGHTS",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "WINSTON HEIGHTS/MOUNTVIEW",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "LEGACY",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "ABBEYDALE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "SETON",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "ROYAL OAK",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "CHINOOK PARK",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "MEADOWLARK PARK",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "CRANSTON",
+    "SECTOR": "SOUTHEAST"
+  },
+  {
+    "NAME": "RICHMOND",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "PARKHILL",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "SCENIC ACRES",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "ASPEN WOODS",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "ROXBORO",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "FALCONRIDGE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "EVANSTON",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "SHAWNESSY",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "SPRINGBANK HILL",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "SHERWOOD",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "CORAL SPRINGS",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "SADDLE RIDGE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "COVENTRY HILLS",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "03D",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "03W",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "CARRINGTON",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "LIVINGSTON",
+    "SECTOR": "NORTH"
+  },
+  {
+    "NAME": "ARBOUR LAKE",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "REDSTONE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "SKYVIEW RANCH",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "03I",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "VALLEY RIDGE",
+    "SECTOR": "WEST"
+  },
+  {
+    "NAME": "UNIVERSITY DISTRICT",
+    "SECTOR": "NORTHWEST"
+  },
+  {
+    "NAME": "GARRISON WOODS",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "CORNERSTONE",
+    "SECTOR": "NORTHEAST"
+  },
+  {
+    "NAME": "YORKVILLE",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "SILVERADO",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "BELMONT",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "HIGHWOOD",
+    "SECTOR": "CENTRE"
+  },
+  {
+    "NAME": "EVERGREEN",
+    "SECTOR": "SOUTH"
+  },
+  {
+    "NAME": "BANFF TRAIL",
+    "SECTOR": "CENTRE"
+  }
+]
